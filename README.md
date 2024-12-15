@@ -15,10 +15,8 @@
 
 ## 🛠️ My Technical Arsenal
 - **Programming Languages:**  
-  ![Stata](https://img.shields.io/badge/-Stata-1A73E8?logo=stata&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![Stata](https://img.shields.io/badge/-Stata-1A73E8?logo=stata&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   
 - **Data Analysis & Visualization:**  
   Pandas | NumPy | ggplot2 | Matplotlib  
