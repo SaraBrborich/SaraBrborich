@@ -85,6 +85,6 @@
 ---
 
 ## 📬 Let's Connect!
-
+- 📄 [CV](https://raw.githubusercontent.com/SaraBrborich/SaraBrborich/main/Sara_Brborich_CV.pdf)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sara-brborich/)
 - 📧 [Email](mailto:sbrborich@uni-bonn.de)
